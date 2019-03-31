@@ -8,18 +8,15 @@ This repository is meant to be a shared repository for the class.  Basic course 
 ## Class schedule
 This is our current plan for the course and what we will cover each day.  If it changes we will update it here and let everyone know.
 
-* Apr 1st - Course Intro
-  * Tech Setup & Primer - git, Azure, node, etc., visual code
-  * Project Intro and Project Brainstorm/Ideation
-  * Mention the FHIR meetup → ideas
-* Apr 8th - Before Man Discovered FHIR
-  * HL7 2.5,  CCD, XDS.b, and related XML standards, maybe query a health exchange as an exercise?
-  * Project Ideation → Design
-* Apr. 15th - FHIR #1 introduce resources, query an online API
-* Apr. 22rd - TBD -- a buffer for possible catch up on tech issues or guest speaker
-* Apr. 29th - FHIR #2 write your own FHIR client
-* May 6th -  SMART on FHIR
-* May 13th - CDS Hooks
-* May 20th - Bulk FHIR & Analysis Pipelines
-* May 27th - VCF files (genetic data)
-* June 3rd - open for follow up on extra topics we may want to cover and possible presentations of projects
+|Date|Topic|
+|:-------|:--------|
+| Apr 1 | Course Intro <ul><li>Tech Setup & Primer - git, Azure, node, visual code, etc.</li><li>Project Intro and Project Brainstorm/Ideation</li></ul>|
+|Apr 8 | Before Man Discovered FHIR<ul><li>HL7 2.5, CCD, XDS.b, and related XML standards</li><li>Project Ideation/Design</li></ul>|
+| Apr 15 | FHIR #1 introduce resources, query an online API |
+| Apr 22 | TBD -- a buffer for possible catch up on tech issues or guest speaker |
+| Apr 29 | FHIR #2 write your own FHIR client |
+| May 6 |  SMART on FHIR |
+| May 13 | CDS Hooks |
+| May 20 | Bulk FHIR & Analysis Pipelines |
+| May 27 | VCF files (genetic data) |
+| June 3 | open for follow up on extra topics we may want to cover and possible presentations of projects |
