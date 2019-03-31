@@ -9,12 +9,12 @@ This repository is meant to be a shared repository for the class.  Basic course 
 This is our current plan for the course and what we will cover each day.  If it changes we will update it here and let everyone know.
 
 * Apr 1st - Course Intro
-** Tech Setup & Primer - git, Azure, node, etc., visual code
-** Project Intro and Project Brainstorm/Ideation
-** Mention the FHIR meetup → ideas
+  * Tech Setup & Primer - git, Azure, node, etc., visual code
+  * Project Intro and Project Brainstorm/Ideation
+  * Mention the FHIR meetup → ideas
 * Apr 8th - Before Man Discovered FHIR
-** HL7 2.5,  CCD, XDS.b, and related XML standards, maybe query a health exchange as an exercise?
-** Project Ideation → Design
+  * HL7 2.5,  CCD, XDS.b, and related XML standards, maybe query a health exchange as an exercise?
+  * Project Ideation → Design
 * Apr. 15th - FHIR #1 introduce resources, query an online API
 * Apr. 22rd - TBD -- a buffer for possible catch up on tech issues or guest speaker
 * Apr. 29th - FHIR #2 write your own FHIR client
