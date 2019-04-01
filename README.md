@@ -2,6 +2,7 @@
 
 ## Spring 2019 591 C
 Mondays, 12:30pm - 1:20pm in HST T530
+
 SLN: 11121
 
 This class will provide a hands-on learning experience with current data standards and tools used today throughout healthcare, including FHIR and Genomics. Each colloquium will include a 15-minute topic primer, and 30 minutes of dedicated assisted development time. Students will have the option to explore possible applications for these technologies, choose an area of interest, and work on a project of their choice throughout the quarter while assisted by the instructors. Topics will include some pre-FHIR standards, FHIR, SMART on FHIR, CDS Hooks, the Bulk Data FHIR API, and Genomic data standards like VCF. Students will have an opportunity to learn about and use the new Microsoft Azure FHIR server.
