@@ -19,15 +19,26 @@ https://join.slack.com/t/bime591sp19/signup
 ## Class schedule
 This is our current plan for the course and what we will cover each day.  If it changes we will update it here and let everyone know.
 
-|Date|Topic|
-|:-------|:--------|
-| Apr 1 | Course Intro <ul><li>Tech Setup & Primer - git, Azure, node, visual code, etc.</li><li>Project Intro and Project Brainstorm/Ideation</li></ul>|
-|Apr 8 | Before Man Discovered FHIR<ul><li>HL7 2.5, CCD, XDS.b, and related XML standards</li><li>Project Ideation/Design</li></ul>|
-| Apr 15 | FHIR #1 introduce resources, query an online API |
-| Apr 22 | TBD -- a buffer for possible catch up on tech issues or guest speaker |
-| Apr 29 | FHIR #2 write your own FHIR client |
-| May 6 |  SMART on FHIR |
-| May 13 | CDS Hooks |
-| May 20 | Bulk FHIR & Analysis Pipelines |
-| May 27 | VCF files (genetic data) |
-| June 3 | open for follow up on extra topics we may want to cover and possible presentations of projects |
+|Date|Topic|Notes|
+|:-------|:--------|:-----|
+| Apr 1 | Course Intro <ul><li>Tech Setup & Primer - git, Azure, node, visual code, jupyter notebook, etc.</li><li>Project Intro and Project Brainstorm/Ideation</li></ul>|[Notes](#apr-1)|
+|Apr 8 | Before Man Discovered FHIR<ul><li>HL7 2.5, CCD, XDS.b, and related XML standards</li><li>Project Ideation/Design</li></ul>||
+| Apr 15 | FHIR #1 introduce resources, query an online API ||
+| Apr 22 | TBD -- a buffer for possible catch up on tech issues or guest speaker ||
+| Apr 29 | FHIR #2 write your own FHIR client ||
+| May 6 |  SMART on FHIR ||
+| May 13 | CDS Hooks ||
+| May 20 | Bulk FHIR & Analysis Pipelines ||
+| May 27 | VCF files (genetic data) ||
+| June 3 | open for follow up on extra topics we may want to cover and possible presentations of projects ||
+
+## Class notes
+### Apr 1
+- To do:
+  - join Slack channel
+  - make sure you are part of the Github organization (Jared will invite you - please send a reminder if you have not received an invitation)
+  - install anaconda (comes with git, jupyter notebook, vscode - make sure these work). Post on slack if you run into problems.
+  - in a Canvas message, send us your details so we can activate your MSDN account (name, email address, maining address, and phone number). Remember, you will get $150 of *monthly* Azure credits and the full suite of Microsoft products for 1 year, a $6000 value. This is a major perk of being in this class :)
+  - if you like, continue working on ideation for your project in the Ideation document (Google Drive)
+  
+  
