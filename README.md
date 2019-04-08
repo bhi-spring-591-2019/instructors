@@ -33,6 +33,16 @@ This is our current plan for the course and what we will cover each day.  If it 
 | June 3 | open for follow up on extra topics we may want to cover and possible presentations of projects ||
 
 ## Class notes
+### Apr 8
+Lesson Plan
+
+|Time|Topic|Notes|
+|:-------|:--------|:-----|
+|5|Quick Intro for new class members||
+|10|Presentation/Discussion on HL7 2.5.1, CCD/CDA and IHE XDS/XCA/XDR|<ul><li>Sample messages available in the repo</li><li>HL7 editors: [7edit, very good, free trial, then pay for it](http://www.7edit.com/home/index.php), [Smart HL7, free](http://smarthl7.com/)</li><li>[Interoperability Standards Advisory](https://www.healthit.gov/isa/sites/isa/files/inline-files/2019ISAReferenceEdition.pdf)</li><li>[XDSToolKit a reference implementation of the IHE standard](https://github.com/usnistgov/iheos-toolkit2)</li>
+|15|Hands on with some sample messages and registry/repository simulators|
+|20|Remainder open for project discussions, exploring HL7 messages, XDS queries, etc.|
+
 ### Apr 1
 - To do:
   - join Slack channel
