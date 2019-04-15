@@ -22,7 +22,7 @@ Replace "MyFhirServer" with a name that will be in the URL for your new server.
 
 Once it is up and running, you will want to put some data in it.  It's no fun without some data!
 
-A populat tool for genetic "realistic" clinical data is [Synthea](https://github.com/synthetichealth/synthea).
+A popular tool for generating "realistic" clinical data is [Synthea](https://github.com/synthetichealth/synthea).
 This tool can generate FHIR resources which can be sent to a FHIR server.  These are generated as FHIR Bundle resources, a resource type which contains other resources.
 
 To help load these into the Microsoft FHIR Server, we wrote a little tool which will send FHIR Bundles to a FHIR endpoint.  The code is in another repository in the same bhi-591 organization.
@@ -30,8 +30,9 @@ To help load these into the Microsoft FHIR Server, we wrote a little tool which 
 
 The code might also simply useful as a code example for accessing a FHIR server programmatically.
 
+If you clone the repository you will get the source code, and also some already generated FHIR resources, so you don't need to use Synthea if you do not want to.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyNTM3ODUsMTA1NzY0MTc1MiwyMD
+eyJoaXN0b3J5IjpbLTEyMTAzMjE5NDksMTA1NzY0MTc1MiwyMD
 Q3NzE2MTYyLDU1NjY2ODE2OV19
 -->
