@@ -35,7 +35,7 @@ This is our current plan for the course and what we will cover each day.  If it 
 ## Class notes
 ### Apr 8
 Lesson Plan
-
+### Added a walkthrough page of what we did in class [here](https://github.com/bhi-spring-591-2019/instructors/blob/master/HL7%20and%20XDSToolkit%20walkthrough.md)
 |Time|Topic|Notes|
 |:-------|:--------|:-----|
 |5|Quick Intro for new class members||
@@ -52,3 +52,6 @@ Lesson Plan
   - if you like, continue working on ideation for your project in the Ideation document (Google Drive)
   
   
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMxNzA5NjY3XX0=
+-->
