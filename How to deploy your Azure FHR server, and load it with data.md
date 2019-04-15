@@ -15,9 +15,14 @@ Because we skipped a few steps, we need to add two previous commands:
     Connect-AzureRmAccount
     $fhirServiceName = "MyFhirServer"
 
-Open powershell, run these two commands, and then the previous commands.  Replace "RG-NAME" with a 
+Open powershell, run these two commands, and then the previous commands.  
+
+Replace "RG-NAME" with a useful name for your new Azure resources.  This name is simply a friendly name that will group all the stuff you create in Azure for the FHIR Api together.
+Replace "MyFhirServer" with a name that will be in the URL for your new server.
+
+Once it is up and running, you will want to put some data in it.  It's no fun without some data!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTkwNzYzOSw1NTY2NjgxNjldfQ==
+eyJoaXN0b3J5IjpbMjA0NzcxNjE2Miw1NTY2NjgxNjldfQ==
 -->
