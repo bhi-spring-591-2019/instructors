@@ -15,8 +15,12 @@ You can do this 7edit.  First press the red "Sender" arrow in the top toolbar.  
 You can then press the green send button.
 
 Now you can go back to XdsToolkit and search for that patient.
+![enter image description here](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/XdsToolsFindDocument.PNG)
+Click on "Inspect Results" to find the document id.
+![enter image description here](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/XdsToolsInspectResults.PNG)
+Finally copy that document Id to run a Get Documents query.
+![enter image description here](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/XdsToolsGetDocument.PNG)
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1ODc4MzYsNTQ2Mjg1NzcwXX0=
+eyJoaXN0b3J5IjpbLTk3ODI3NzkwOCw1NDYyODU3NzBdfQ==
 -->
