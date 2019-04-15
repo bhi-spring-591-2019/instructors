@@ -10,9 +10,13 @@ There is an example running for the class to explore here:
 [http://xdstoolkit3.westcentralus.cloudapp.azure.com:8080/xdstools7.2.5/](http://xdstoolkit3.westcentralus.cloudapp.azure.com:8080/xdstools7.2.5/)
 With the XdsToolkit, we wanted to search for all documents about a patient and then find a specific document.
 In order to do that, we first sent an HL7 v2.51 ADT message to the toolkit to register the patient.
-You can do this 7edit.  First enter the information of the receiving system in to 7edit.  The server is: xdstoolkit3.westcentralus.cloudapp.azure.com, and the port is 5000.
+You can do this 7edit.  First press the red "Sender" arrow in the top toolbar.  Then enter the information of the receiving system in to 7edit.  The server is: xdstoolkit3.westcentralus.cloudapp.azure.com, and the port is 5000.
+![enter image description here](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/7editSendProfile.PNG)
+You can then press the green send button.
+
+Now you can go back to XdsToolkit and search for that patient.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDI1NDQ0Miw1NDYyODU3NzBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDU1ODc4MzYsNTQ2Mjg1NzcwXX0=
 -->
