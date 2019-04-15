@@ -1,7 +1,7 @@
 # Walkthrough of HL7/XDS demo from class
 We used a tool, [7edit](http://www.7edit.com/home/index.php) to view an HL7 message and understand the different parts.
 
-The message we used is in this repo, in teh SampleMessages folder [here](https://github.com/bhi-spring-591-2019/instructors/blob/master/SampleMessages/ADT_GREEN992.ADT).  It has a free trial period of 21 days.
+The message we used is in this repo, in the SampleMessages folder [here](https://github.com/bhi-spring-591-2019/instructors/blob/master/SampleMessages/ADT_GREEN992.ADT).  It has a free trial period of 21 days.
 In particular we looked at the PID segment which contains the patient identifier.
 ![7edit HL7 ADT message](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/7editCapture.PNG)
 
@@ -22,5 +22,5 @@ Finally copy that document Id to run a Get Documents query.
 ![enter image description here](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/XdsToolsGetDocument.PNG)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODI3NzkwOCw1NDYyODU3NzBdfQ==
+eyJoaXN0b3J5IjpbLTQyNTQ1NDI1NCw1NDYyODU3NzBdfQ==
 -->
