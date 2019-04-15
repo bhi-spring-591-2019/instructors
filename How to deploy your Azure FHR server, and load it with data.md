@@ -21,7 +21,10 @@ Replace "RG-NAME" with a useful name for your new Azure resources.  This name is
 Replace "MyFhirServer" with a name that will be in the URL for your new server.
 
 Once it is up and running, you will want to put some data in it.  It's no fun without some data!
+
+A populat tool for genetic "realistic" clinical data is [Synthea](https://github.com/synthetichealth/synthea).
+This tool can generate FHIR resourc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzY0MTc1MiwyMDQ3NzE2MTYyLDU1Nj
-Y2ODE2OV19
+eyJoaXN0b3J5IjpbLTE4OTAyMzM4NjMsMTA1NzY0MTc1MiwyMD
+Q3NzE2MTYyLDU1NjY2ODE2OV19
 -->
