@@ -5,8 +5,11 @@ The message we used is in this repo, in teh SampleMessages folder [here](https:/
 In particular we looked at the PID segment which contains the patient identifier.
 ![7edit HL7 ADT message](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/7editCapture.PNG)
 
-We also looked a reference implementation of the XDS/XCA standard called XdsTools
+We also looked a reference implementation of the XDS/XCA standard called the [XdsToolkit](https://github.com/usnistgov/iheos-toolkit2)
+There is an example running for the class to explore here:
+[http://xdstoolkit3.westcentralus.cloudapp.azure.com:8080/xdstools7.2.5/](http://xdstoolkit3.westcentralus.cloudapp.azure.com:8080/xdstools7.2.5/)
+With the toolkit, we
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDk0MTk0NCw1NDYyODU3NzBdfQ==
+eyJoaXN0b3J5IjpbLTUzMzEzNTk0Myw1NDYyODU3NzBdfQ==
 -->
