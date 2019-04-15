@@ -3,8 +3,10 @@ We used a tool, [7edit](http://www.7edit.com/home/index.php) to view an HL7 mess
 
 The message we used is in this repo, in teh SampleMessages folder [here](https://github.com/bhi-spring-591-2019/instructors/blob/master/SampleMessages/ADT_GREEN992.ADT).  It has a free trial period of 21 days.
 In particular we looked at the PID segment which contains the patient identifier.
-![7edit ](https://github.com/bhi-spring-591-2019/instructors/blob/master/WalkthroughImages/7editCapture.PNG)
+![7edit HL7 ADT message](https://github.com/bhi-spring-591-2019/instructors/raw/master/WalkthroughImages/7editCapture.PNG)
+
+We also looked a reference implementation of the XDS/XCA standard called XdsTools
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzE5ODQwOSw1NDYyODU3NzBdfQ==
+eyJoaXN0b3J5IjpbLTI0NDk0MTk0NCw1NDYyODU3NzBdfQ==
 -->
