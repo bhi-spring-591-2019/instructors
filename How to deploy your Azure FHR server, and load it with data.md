@@ -25,8 +25,13 @@ Once it is up and running, you will want to put some data in it.  It's no fun wi
 A populat tool for genetic "realistic" clinical data is [Synthea](https://github.com/synthetichealth/synthea).
 This tool can generate FHIR resources which can be sent to a FHIR server.  These are generated as FHIR Bundle resources, a resource type which contains other resources.
 
-To help load these into the Microsoft FHIR Server, we wrote a little tool which will send FHIR Bundles to a FHIR endpoint.  The code is in another repository in the same 
+To help load these into the Microsoft FHIR Server, we wrote a little tool which will send FHIR Bundles to a FHIR endpoint.  The code is in another repository in the same bhi-591 organization.
+[https://github.com/bhi-spring-591-2019/SubmitFHIRBundle](https://github.com/bhi-spring-591-2019/SubmitFHIRBundle)
+
+The code might also simply useful as a code example for accessing a FHIR server programmatically.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTc1Mzg2LDEwNTc2NDE3NTIsMjA0Nz
-cxNjE2Miw1NTY2NjgxNjldfQ==
+eyJoaXN0b3J5IjpbLTEwNTQyNTM3ODUsMTA1NzY0MTc1MiwyMD
+Q3NzE2MTYyLDU1NjY2ODE2OV19
 -->
