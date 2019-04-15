@@ -8,8 +8,11 @@ In particular we looked at the PID segment which contains the patient identifier
 We also looked a reference implementation of the XDS/XCA standard called the [XdsToolkit](https://github.com/usnistgov/iheos-toolkit2)
 There is an example running for the class to explore here:
 [http://xdstoolkit3.westcentralus.cloudapp.azure.com:8080/xdstools7.2.5/](http://xdstoolkit3.westcentralus.cloudapp.azure.com:8080/xdstools7.2.5/)
-With the toolkit, we
+With the XdsToolkit, we wanted to search for all documents about a patient and then find a specific document.
+In order to do that, we first sent an HL7 v2.51 ADT message to the toolkit to register the patient.
+You can do this 7edit.  First enter the information of the receiving system in to 7edit.  The server is: xdstoolkit3.westcentralus.cloudapp.azure.com, and the port is 5000.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzEzNTk0Myw1NDYyODU3NzBdfQ==
+eyJoaXN0b3J5IjpbMTU0MDI1NDQ0Miw1NDYyODU3NzBdfQ==
 -->
