@@ -21,8 +21,7 @@ Replace "RG-NAME" with a useful name for your new Azure resources.  This name is
 Replace "MyFhirServer" with a name that will be in the URL for your new server.
 
 Once it is up and running, you will want to put some data in it.  It's no fun without some data!
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzcxNjE2Miw1NTY2NjgxNjldfQ==
+eyJoaXN0b3J5IjpbMTA1NzY0MTc1MiwyMDQ3NzE2MTYyLDU1Nj
+Y2ODE2OV19
 -->
