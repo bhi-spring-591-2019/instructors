@@ -39,9 +39,10 @@ To run execute the following command
 
     dotnet SubmitFHIRBundle.dll -p patient1.json -s https://fhir591.azurewebsites.net
  
-
+Replace the patient1.json with the name of a file that has a FHIR bundle resource, and the https://fhir.azurewebsites.net with the URL of your FHIR server.
+You should see some output with resources being uploaded.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE2NTMyODcsLTEyMTAzMjE5NDksMT
-A1NzY0MTc1MiwyMDQ3NzE2MTYyLDU1NjY2ODE2OV19
+eyJoaXN0b3J5IjpbLTIyMTk3NDUyMywtMTIxMDMyMTk0OSwxMD
+U3NjQxNzUyLDIwNDc3MTYxNjIsNTU2NjY4MTY5XX0=
 -->
