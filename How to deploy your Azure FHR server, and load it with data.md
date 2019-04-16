@@ -35,9 +35,13 @@ If you clone the repository you will get the source code, and also some already 
 To run the tool to upload FHIR resources, you will need the [.Net Core Runtime](https://dotnet.microsoft.com/download).
 Then download the tool from the github [releases](https://github.com/bhi-spring-591-2019/SubmitFHIRBundle/releases/download/v0.1/SubmitFHIRBundle.zip).
 
-To run 
+To run execute the following command
+
+    dotnet SubmitFHIRBundle.dll -p patient1.json -s https://fhir591.azurewebsites.net
+ 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA5MTY3MjQsLTEyMTAzMjE5NDksMT
+eyJoaXN0b3J5IjpbLTEzMTE2NTMyODcsLTEyMTAzMjE5NDksMT
 A1NzY0MTc1MiwyMDQ3NzE2MTYyLDU1NjY2ODE2OV19
 -->
