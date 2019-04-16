@@ -32,7 +32,10 @@ The code might also simply useful as a code example for accessing a FHIR server 
 
 If you clone the repository you will get the source code, and also some already generated FHIR resources, so you don't need to use Synthea if you do not want to.
 
+To run the tool to upload FHIR resources, you will need the [.Net Core Runtime](https://dotnet.microsoft.com/download).
+Then download the tool from the github releases.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAzMjE5NDksMTA1NzY0MTc1MiwyMD
-Q3NzE2MTYyLDU1NjY2ODE2OV19
+eyJoaXN0b3J5IjpbLTE2NDgwNjAwNDQsLTEyMTAzMjE5NDksMT
+A1NzY0MTc1MiwyMDQ3NzE2MTYyLDU1NjY2ODE2OV19
 -->
