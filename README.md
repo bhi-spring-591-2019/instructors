@@ -19,20 +19,39 @@ https://join.slack.com/t/bime591sp19/signup
 ## Class schedule
 This is our current plan for the course and what we will cover each day.  If it changes we will update it here and let everyone know.
 
-|Date|Topic|Notes|
+|Date|Topic|Led By|
 |:-------|:--------|:-----|
-| Apr 1 | Course Intro <ul><li>Tech Setup & Primer - git, Azure, node, visual code, jupyter notebook, etc.</li><li>Project Intro and Project Brainstorm/Ideation</li></ul>|[Notes](#apr-1)|
-|Apr 8 | Before Man Discovered FHIR<ul><li>HL7 2.5, CCD, XDS.b, and related XML standards</li><li>Project Ideation/Design</li></ul>||
-| Apr 15 | FHIR #1 introduce resources, query an online API ||
-| Apr 22 | TBD -- a buffer for possible catch up on tech issues or guest speaker ||
-| Apr 29 | FHIR #2 write your own FHIR client ||
-| May 6 |  SMART on FHIR ||
-| May 13 | CDS Hooks ||
-| May 20 | Bulk FHIR & Analysis Pipelines ||
-| May 27 | VCF files (genetic data) ||
-| June 3 | open for follow up on extra topics we may want to cover and possible presentations of projects ||
+| Apr 1 | [Course Intro](#apr-1) <ul><li>Tech Setup & Primer - git, Azure, node, visual code, jupyter notebook, etc.</li><li>Project Intro and Project Brainstorm/Ideation</li></ul>|Hannah, Jared, Piotr|
+|Apr 8 | [Man Before FHIR](#apr-8) <ul><li>HL7 2.5, CCD, XDS.b, and related XML standards</li><li>Project Ideation/Design</li></ul>| Jared |
+| Apr 15 | [Discovering FHIR #1](#apr-15)<ul><li>Introduce resources</li><li>Query a FHIR endpoint</li></ul> | Piotr |
+| Apr 22 | [Discovering FHIR #2](#apr-21) <ul><li>Identify required resources<li>Build a BMI Calculator using FHIR data</li></ul> | Hannah |
+| Apr 29 | SMART on FHIR - EHRs as Application Platforms  | Piotr |
+| May 6 | CDS Hooks - EHR Integration of Simple and Flexible Clinical Decision Support | Hannah |
+| May 13 | Guest Speaker / Gap Week | Who knows?? |
+| May 20 | Bulk FHIR & Data Analysis Pipelines | Piotr |
+| May 27 | Genetic Data Standards - VCF files | Jared |
+| June 3 | Presentations & Closing Ceremonies | Piotr, Jared, Hannah|
 
 ## Class notes
+### Apr 22
+Lesson Plan
+
+|  **Approx. Time (min)** | **Topic** | **Instructor(s)** |
+| :---: | :---: | :---: |
+|  5 | Recap and Class Intro | Piotr, Jared, Hannah |
+|  20 | FHIR BMI Calculator Tutorial (modified #2?)<br/>Identify req Information Identify req FHIR resources Query to get patient data Query to get weight data Calculate BMI | Hannah |
+|  25 | Project Time!<br/>Daily Exercise: Level 3 FHIR Tutorial Hannah: GA Tech Project Interest group Piotr (remote):SMART on FHIR interest group Jared: Microsoft interest group | Piotr, Jared, Hannah |
+
+### Apr 15
+Lesson Plan
+
+|  **Approx. Time (min)** | **Topic** | **Instructor(s)** |
+| :---: | :---: | :---: |
+|  5 | Meetup Recap, Quick recap of class so far | Piotr, Jared, Hannah |
+|  10 | Requirement List Activity:<br/>BrainstormingComparisons Features | Piotr |
+|  10 | Exploring FHIR with ClinFHIR<br/>http://clinfhir.com/ https://github.com/uw-fhir/fhir-api-tutorial<br/>Additional Resources:<br/>https://drive.google.com/open?id=1O5dz2rY7JpSVN3XcRCIuJVyJ5jfhaGK5 https://drive.google.com/open?id=1ERDQiTyD1BKefbJxCeayRgnCpTOkt15L | Piotr |
+|  25 | Project Activity<br/>Pitch Categories Pitch major opportunities 3-pronged approach: Piotr: Patient portal integration Hannah: GA Project Jared: Working with the Azure FHIR server | Piotr, Jared, Hannah |
+
 ### Apr 8
 Lesson Plan
 ### Added a walkthrough page of what we did in class [here](https://github.com/bhi-spring-591-2019/instructors/blob/master/HL7%20and%20XDSToolkit%20walkthrough.md)
