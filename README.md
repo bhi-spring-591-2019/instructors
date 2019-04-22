@@ -24,7 +24,7 @@ This is our current plan for the course and what we will cover each day.  If it 
 | Apr 1 | [Course Intro](#apr-1) <ul><li>Tech Setup & Primer - git, Azure, node, visual code, jupyter notebook, etc.</li><li>Project Intro and Project Brainstorm/Ideation</li></ul>|Hannah, Jared, Piotr|
 |Apr 8 | [Man Before FHIR](#apr-8) <ul><li>HL7 2.5, CCD, XDS.b, and related XML standards</li><li>Project Ideation/Design</li></ul>| Jared |
 | Apr 15 | [Discovering FHIR #1](#apr-15)<ul><li>Introduce resources</li><li>Query a FHIR endpoint</li></ul> | Piotr |
-| Apr 22 | [Discovering FHIR #2](#apr-21) <ul><li>Identify required resources<li>Build a BMI Calculator using FHIR data</li></ul> | Hannah |
+| Apr 22 | [Discovering FHIR #2](#apr-22) <ul><li>Identify required resources<li>Build a BMI Calculator using FHIR data</li></ul> | Hannah |
 | Apr 29 | SMART on FHIR - EHRs as Application Platforms  | Piotr |
 | May 6 | CDS Hooks - EHR Integration of Simple and Flexible Clinical Decision Support | Hannah |
 | May 13 | Guest Speaker / Gap Week | Who knows?? |
