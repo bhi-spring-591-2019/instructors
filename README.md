@@ -39,8 +39,8 @@ Lesson Plan
 |  **Approx. Time (min)** | **Topic** | **Instructor(s)** |
 | :---: | :---: | :---: |
 |  5 | Recap and Class Intro | Piotr, Jared, Hannah |
-|  20 | FHIR BMI Calculator Tutorial (modified #2?)<br/>Identify req Information Identify req FHIR resources Query to get patient data Query to get weight data Calculate BMI | Hannah |
-|  25 | Project Time!<br/>Daily Exercise: Level 3 FHIR Tutorial Hannah: GA Tech Project Interest group Piotr (remote):SMART on FHIR interest group Jared: Microsoft interest group | Piotr, Jared, Hannah |
+|  20 | FHIR BMI Calculator Tutorial (modified #2?)<br/>Identify req Information, Identify req FHIR resources, Query to get patient data, Query to get weight/height data, Calculate BMI<br>https://github.com/uw-fhir/fhir-api-tutorial/blob/master/fhir-calculator-notebook-level2-ANSWERS.ipynb | Hannah |
+|  25 | Project Time!<br/>Daily Exercise: Level 3 FHIR Tutorial, Hannah: GA Tech Project Interest group, Piotr (remote): SMART on FHIR interest group, Jared: Microsoft interest group | Piotr, Jared, Hannah |
 
 ### Apr 15
 Lesson Plan
