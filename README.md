@@ -27,7 +27,7 @@ This is our current plan for the course and what we will cover each day.  If it 
 | Apr 22 | [Discovering FHIR #2](#apr-22) <ul><li>Identify required resources<li>Build a BMI Calculator using FHIR data</li></ul> | Hannah |
 | Apr 29 | SMART on FHIR - EHRs as Application Platforms  | Piotr |
 | May 6 | CDS Hooks - EHR Integration of Simple and Flexible Clinical Decision Support | Hannah |
-| May 13 | Guest Speaker / Gap Week | Who knows?? |
+| May 13 | Guest Speaker -- Details and discussion of  the Azure FHIR server from the Microsoft team | Michael Hansen, Program Manager at Micros |
 | May 20 | Bulk FHIR & Data Analysis Pipelines | Piotr |
 | May 27 | Genetic Data Standards - VCF files | Jared |
 | June 3 | Presentations & Closing Ceremonies | Piotr, Jared, Hannah|
@@ -72,5 +72,5 @@ Lesson Plan
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzA5NjY3XX0=
+eyJoaXN0b3J5IjpbLTEyMzY5Mjg1MTQsMTMxNzA5NjY3XX0=
 -->
