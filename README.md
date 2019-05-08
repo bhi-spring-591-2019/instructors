@@ -26,13 +26,24 @@ This is our current plan for the course and what we will cover each day.  If it 
 | Apr 15 | [Discovering FHIR #1](#apr-15)<ul><li>Introduce resources</li><li>Query a FHIR endpoint</li></ul> | Piotr |
 | Apr 22 | [Discovering FHIR #2](#apr-22) <ul><li>Identify required resources<li>Build a BMI Calculator using FHIR data</li></ul> | Hannah |
 | Apr 29 | SMART on FHIR - EHRs as Application Platforms  | Piotr |
-| May 6 | CDS Hooks - EHR Integration of Simple and Flexible Clinical Decision Support | Hannah |
+| May 6 | [CDS Hooks](#may-6) <ul><li>EHR Integration of Simple and Flexible Clinical Decision Support</li></ul> | Hannah<br>Tom Lang, MD, ER Doc |
 | May 13 | Guest Speaker -- Details and discussion of  the Azure FHIR server from the Microsoft team | Michael Hansen, Program Manager at Microsoft |
 | May 20 | Bulk FHIR & Data Analysis Pipelines | Piotr |
 | May 27 | Genetic Data Standards - VCF files | Jared |
 | June 3 | Presentations & Closing Ceremonies | Piotr, Jared, Hannah|
 
 ## Class notes
+### May 6
+Lesson Plan
+
+|  **Approx. Time (min)** | **Topic** | **Instructor(s)** |
+| :---: | :---: | :---: |
+|  5 | Recap and Class Intro | Jared |
+|  20 | CDS Hooks Tutorial<br>Running a basic CDS Hooks application, Structure of a CDS Hooks application, Using patient context in CDS Hooks, Calling an external API to calculate BMI<br/>[CDS Hooks tutorial](https://github.com/uw-fhir/CDS-Hooks-Tutorial/blob/master/tutorial.md) | Hannah |
+|  15 | Guest speaker: Tom Lang, MD |  |
+|  10 | Project Time | Jared, Hannah |
+
+
 ### Apr 22
 Lesson Plan
 
