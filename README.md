@@ -29,8 +29,8 @@ This is our current plan for the course and what we will cover each day.  If it 
 | May 6 | [CDS Hooks](#may-6) <ul><li>EHR Integration of Simple and Flexible Clinical Decision Support</li></ul> | Hannah<br>Tom Lang, MD, ER Doc |
 | May 13 | Guest Speaker -- Details and discussion of  the Azure FHIR server from the Microsoft team | Michael Hansen, Program Manager at Microsoft |
 | May 20 | Bulk FHIR & Data Analysis Pipelines | Piotr |
-| May 27 | Genetic Data Standards - VCF files | Jared |
-| June 3 | Presentations & Closing Ceremonies | Piotr, Jared, Hannah|
+| May 27 | Memorial Day | |
+| June 3 | Genetic Data Standards - VCF files, Presentations & Closing Ceremonies | Piotr, Jared, Hannah|
 
 ## Class notes
 ### May 6
@@ -83,5 +83,6 @@ Lesson Plan
   
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU2MjA3NDcsMTMxNzA5NjY3XX0=
+eyJoaXN0b3J5IjpbLTE3Nzk5MTY5MDcsLTE3MjU2MjA3NDcsMT
+MxNzA5NjY3XX0=
 -->
